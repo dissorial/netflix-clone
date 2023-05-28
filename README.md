@@ -10,3 +10,7 @@ Full-stack Netflix clone with user authentication, multiple log-in options, serv
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+![Image 1](public/images/thumbnails/netflix-clone-200-thumbnail.png)
+![Image 3](public/images/thumbnails/netflix-clone-project-103.png)
+![Image 4](public/images/thumbnails/netflix-clone-project-203.png)
+![Image 5](public/images/thumbnails/netflix-clone-project-303.png)
