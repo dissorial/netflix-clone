@@ -11,3 +11,6 @@ Full-stack Netflix clone with user authentication, multiple log-in options, serv
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![Image 1](public/images/thumbnails/netflix-clone-project-203.png)
+![Image 2](public/images/thumbnails/netflix-clone-project-103.png)
+![Image 3](public/images/thumbnails/netflix-clone-project-203.png)
+![Image 4](public/images/thumbnails/netflix-clone-project-303.png)
